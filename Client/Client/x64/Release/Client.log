@@ -1,0 +1,2 @@
+﻿  С.cpp
+C:\Users\root\Desktop\С С++\S\Client\Client\С.cpp(27,34): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
